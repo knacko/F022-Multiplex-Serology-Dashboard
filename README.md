@@ -1,5 +1,5 @@
 # F022-Multiplex-Serology-Dashboard
-Tool for generating output from Luminex Multiplex Serology
+A tool for generating output from Luminex Multiplex Serology. This was used in validation of a serological assay for Treponema pallidum (syphilis). 
 
 This repo contains the project Andrew Lindsay did during his internship with the Infections and Cancer Epidemiology group at the German Cancer Research Center (DKFZ). Done from 09/01/2019 to 11/30/2019
 
